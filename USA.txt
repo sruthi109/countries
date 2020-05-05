@@ -1,0 +1,3 @@
+country:USA
+Capital:Washington
+LEADER:DONALD TRUMP
